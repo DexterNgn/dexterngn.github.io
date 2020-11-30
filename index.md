@@ -27,11 +27,10 @@
 
 ### Other Analysis
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Practical-Machine-Learning-in-Predicting-Manners-in-Quantifying-Self-Movements-Research](https://github.com/DexterNgn/Practical-Machine-Learning-in-Predicting-Manners-in-Quantifying-Self-Movements-Research)
+- [Developing-a-Shiny-App-that-Can-Predict-the-Next-Word-Using-Previous-Ones](https://github.com/DexterNgn/Developing-a-Shiny-App-that-Can-Predict-the-Next-Word-Using-Previous-Ones)
+- [Exploratory_Data_Analysis_Measurements-of-Electric-Power-Consumption-in-One-Household](https://github.com/DexterNgn/Exploratory_Data_Analysis_Measurements-of-Electric-Power-Consumption-in-One-Household)
+
 
 ---
 
