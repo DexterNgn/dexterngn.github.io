@@ -4,6 +4,10 @@
 
 ### Current Analysis 
 
+[Analyzing Customer Satisfaction of Apple AirPods Using Exploratory Data Analysis and Classification Techniques (Part 1)](https://towardsdatascience.com/analyzing-customer-satisfaction-of-apple-airpods-using-exploratory-data-analysis-and-312f0c41418)
+<img src="images/6.png?raw=true"/>
+
+---
 [Navigating Analytics Job Market during COVID-19 using Web-Scraping and Text Analysis](https://towardsdatascience.com/how-to-navigate-analytics-job-search-during-covid-19-b6d2159fac8e)
 <img src="images/2.png?raw=true"/>
 
