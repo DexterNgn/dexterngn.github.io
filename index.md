@@ -4,6 +4,10 @@
 
 ### Current Analysis 
 
+[Analyzing Customer Satisfaction of Apple AirPods Using Exploratory Data Analysis and Classification Techniques (Part 2)](https://towardsdatascience.com/analyzing-customer-satisfaction-of-apple-airpods-using-exploratory-data-analysis-and-50622292e5dd)
+<img src="images/photo2.jpg?raw=true"/>
+
+---
 [Analyzing Customer Satisfaction of Apple AirPods Using Exploratory Data Analysis and Classification Techniques (Part 1)](https://towardsdatascience.com/analyzing-customer-satisfaction-of-apple-airpods-using-exploratory-data-analysis-and-312f0c41418)
 <img src="images/photo1.jpg?raw=true"/>
 
