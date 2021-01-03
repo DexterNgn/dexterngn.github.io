@@ -400,7 +400,7 @@ footer {
     font-weight: 900;
     background-color: rgba(0,0,0,0.7);
     color: #fff;
-    min-height: 100px;
+    min-height: 50px;
 }
 
     footer a, footer a:link {
@@ -416,3 +416,18 @@ footer {
  .owner {
         font-size: 18px;
     }
+
+footer, .social {
+    margin-top: -200px;
+    padding-top: 140px;
+}
+
+.social, .fa {
+    font-size: 25px;
+    margin-left:5px;
+
+}
+
+.facebook, .instagram, .twitter, .fa {
+    margin-right: 15px;
+}
