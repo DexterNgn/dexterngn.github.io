@@ -387,7 +387,7 @@ padding:0px;
 
     #contact .overlay {
         background-color: rgba(0,0,0,0.1);
-        padding-top: 90px;
+        padding-top: 70px;
         color: #fff;
 /*        padding-bottom: 100px;
 */    }
@@ -416,18 +416,3 @@ footer {
  .owner {
         font-size: 18px;
     }
-
-footer, .social {
-    margin-top: -200px;
-    padding-top: 140px;
-}
-
-.social, .fa {
-    font-size: 25px;
-    margin-left:5px;
-
-}
-
-.facebook, .instagram, .twitter, .fa {
-    margin-right: 15px;
-}
