@@ -403,6 +403,7 @@ footer {
     min-height: 50px;
     position: absolute;
     bottom: 0;
+    height:60px;
 }
 
     footer a, footer a:link {
