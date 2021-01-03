@@ -353,18 +353,6 @@ padding:0px;
 
 }
 
-.card-img-top{
-  width:100%;
-  height:auto;
-}
-
-img
-{
-    max-width: 100%;
-    min-width: 300px;
-    height: auto;
-}
-
 .card-text {
     border-bottom: 2px solid #222;
     border-radius:4px;
