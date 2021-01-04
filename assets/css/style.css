@@ -215,6 +215,74 @@ padding:0px;
     opacity: 0.6;
 }
 
+/* =============================================================
+ PORTFOLIO2 SECTION STYLES
+ ============================================================ */
+
+/*Changed the color*/
+#works2 {
+    color: #ffffff;
+    background: url(../img/Austin.jpg) no-repeat center center;
+    padding-bottom: 50px;
+    -webkit-background-size: cover;
+    background-size: cover;
+    -moz-background-size: cover;
+    background-attachment: fixed;
+}
+/* FOR CHANGING COLOR OF ACTIVE CATEGORY */
+.caegories a.active {
+    background-color: #004;;
+    border: 2px solid #222;
+    border-radius: 5px;
+}
+
+.caegories a {
+    margin: 0px 5px;
+    border-radius:5px;
+    padding:10px;
+}
+
+/* FOR TRANSITION BEAUTIFULLY */
+.isotope .isotope-item {
+    -webkit-transition-duration: 0.8s;
+    -moz-transition-duration: 0.8s;
+    transition-duration: 0.8s;
+}
+
+#works2 .work-wrapper {
+    /*border: 2px solid #FF2276;*/
+    padding: 2px;
+    margin: 1px 1px 30px 1px;
+    overflow: hidden;
+}
+
+#works2 .work-wrapper img {
+    -webkit-transition: all 0.7s ease;
+    transition: all 0.7s ease;
+    -webkit-transform:scale(1);
+    transform:scale(1);
+
+}
+#works2 .container {
+    margin-top:-50px;
+    background-color: rgba(0,0,0,0.6);   
+}
+
+#works2 img {
+    filter: none; /* FOR IE6-9 */
+    -webkit-filter: grayscale(0); /* FOR Google Chrome, Safari 6+ and  Opera 15+ */
+    opacity: 1;
+    border-radius: 3px;
+    border:1px solid #1ff1ff;
+
+}
+
+#works2 img:hover {
+    /*-webkit-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);*/
+    -webkit-transform:scale(1.3);
+    transform:scale(1.3);
+}
 
 /* =============================================================
  PORTFOLIO SECTION STYLES
